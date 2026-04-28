@@ -57,3 +57,4 @@ Documentação de API com Swagger
 👤 Autor
 
 Guilherme Stengel
+LinkedIn: [Acessar perfil](https://www.linkedin.com/in/guilhermestengel/)
