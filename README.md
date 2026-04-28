@@ -25,17 +25,17 @@ Banco: PostgreSQL
 Mapeamento de entidades com Entity Framework Core
 Uso de migrations para versionamento do banco
 ▶️ Como executar o projeto
-Pré-requisitos
+1. Pré-requisitos
 .NET SDK instalado
 PostgreSQL instalado e configurado
-Configuração do banco
+2. Configuração do banco
 
 Atualize a connection string no arquivo:
 
 appsettings.json
-Executar migrations (se necessário)
+3. Executar migrations (se necessário)
 dotnet ef database update
-Rodar a aplicação
+4. Rodar a aplicação
 dotnet run
 📖 Acessar documentação (Swagger)
 
@@ -51,5 +51,3 @@ Documentação de API com Swagger
 👤 Autor
 
 Guilherme Stengel
-
-🔗 LinkedIn: Acessar perfil
